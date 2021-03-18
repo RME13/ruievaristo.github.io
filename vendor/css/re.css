@@ -225,8 +225,10 @@ section.resume-section {
 
 /* -----------------------------------------   Button disabled ------------------------------------------------ */
 
+.list-inline-item,
 .list-inline-item-disabled {
   display: inline-block;
+  margin-top: 10px;
 }
 
 .list-inline-item-disabled:not(:last-child) {
