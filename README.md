@@ -1,1 +1,1 @@
-# [Site](https://ruievaristo.github.io/site/)
+# [Personal Website](https://ruievaristo.github.io/site/)
