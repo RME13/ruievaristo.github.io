@@ -79,6 +79,24 @@
   animation: spin 4s linear infinite;
 }
 
+.bla2 {
+  /* -webkit-animation: spin 4s linear infinite;
+  -moz-animation: spin 4s linear infinite;
+  animation: spin 4s linear infinite;
+
+  -webkit-animation: spin 4s linear infinite;
+  -moz-animation: spin 4s linear infinite;
+  animation: spin 10s; */
+
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 10s;
+  animation-delay: 1s;
+  animation-fill-mode: revert;
+  animation-name: spin;
+  animation-play-state: paused;
+}
+
 .fixed-top {
   border-bottom: 4px solid #ef2042;
 }
