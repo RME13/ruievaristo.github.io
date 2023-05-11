@@ -193,7 +193,18 @@ section.resume-section {
   text-align: center;
 }
 
+/* -----------------------------------------   ACHIEVEMNTS ------------------------------------------------ */
+
+#achievements li {
+  padding: 5px;
+}
+
 /* -----------------------------------------   SCROLL ------------------------------------------------ */
+
+.resume-section ::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+}
 
 /* width */
 ::-webkit-scrollbar {
